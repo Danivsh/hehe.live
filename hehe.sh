@@ -1,4 +1,4 @@
-#!bin/bash/
+#!/bin/bash/
 file=~/.zshrc
 
 volume="osascript -e \"set Volume 7\"" # TODO: переключение вывода на динамик 
